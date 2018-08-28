@@ -1,0 +1,7 @@
+{
+  "name": "AppEmpresas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
